@@ -62,15 +62,16 @@
     </p>
     <p align="center">visitors count.ᐟ</p>
 </div>
-<br>
-<br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/purrsenninvfy/purrsenninvfy/main/assets/kyubey.gif" height="40" />
-<br>
-
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
+    <img src="https://raw.githubusercontent.com/purrsenninvfy/purrsenninvfy/main/assets/kyubey.gif" height="40" />
+    
+    <br><br>
+    
+    <div>
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ingridrosselis)
+        [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+        [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+        [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
+    </div>
 </div>
