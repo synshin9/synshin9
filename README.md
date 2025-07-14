@@ -62,10 +62,12 @@
     </p>
     <p align="center">visitors count.ᐟ</p>
 </div>
+<br>
+<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/purrsenninvfy/purrsenninvfy/main/assets/kyubey.gif" height="40" />
-<br><br><br>
+<br>
 
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
