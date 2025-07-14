@@ -1,35 +1,74 @@
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/1hMJTkDXPTBiU/giphy.gif?cid=6c09b95238re20exqbzhghm01y4hnb4t8kscva97sf8moxme&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="dreamy girl gif"/>
-</h2>
+<h1 align="center">Ｓｅｒｅｎｉｔｙ. 〜<br></h1>
+<h1 align="center"> <img src="https://media0.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playwrite+AU+SA&duration=6000&pause=3200&color=808080&center=true&width=435&lines=why+you+don't+realize+my+feelings;ahh%2C+i+am+trapped+in+my+own+imagination...;can+i+get+out+of%2C+this+dream" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">⋆｡˚☁️⋆｡˚✩</p>
-
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Status-Dreaming-blueviolet?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Mood-Soft%20&%20Lost-pink?style=for-the-badge" />
-</p>
+</div>
 
-<hr style="border: none; border-top: 1px dotted #ccc; width: 60%; margin: auto;">
+<div>
+<br>
+<br>
+<br>
+<br>
 
-<p align="center">
-  <i><b>Now Playing</b> — 🎵</i>
-</p>
+> ---
+<div align="center"> 
+  <samp>
+  <br>
+    「 <b>Songs?</b> 」
+    <br>
+  </samp>
+</div>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bs982rouoma1pwihrpwyk6ekt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zpff6t6t36vc6smeetmu7agndi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bs982rouoma1pwihrpwyk6ekt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=00ced1&bar_color_cover=false" alt="spotify-github-profile"/>
   </a>
-</p>
+</div>
+<br><br>
 
-<p align="center">⋆﹥━━━━━━━━━━━━﹤⋆</p>
+<!-- Song 1 -->
+<div align="left">
+  <a href="https://youtube.com/watch?v=b0EPtQFW6y8">
+    <img src="https://i.ytimg.com/vi/b0EPtQFW6y8/hq720.jpg" width="170">
+  </a><br>
+  <b>Colde(콜드) - Star</b>
+</div>
+<br>
 
-<p align="center">
-  <sub>ʏᴏᴜ'ʀᴇ ᴠɪsɪᴛᴏʀ ɴᴏ.</sub><br>
-  <img src="https://profile-counter.glitch.me/purrsenninvfy/count.svg" alt="visitor count"/>
-</p>
+<!-- Song 2 -->
+<div align="right">
+  <a href="https://music.youtube.com/watch?v=MHCsrKA9gh8">
+    <img src="https://img.youtube.com/vi/IpFX2vq8HKw/maxresdefault.jpg" width="170">
+  </a><br>
+  <b>Blue - Yung Kai</b>
+</div>
+<br>
+
+<!-- Song 3 -->
+<div align="left">
+  <a href="https://music.youtube.com/watch?v=VoozNIvzEG8">
+    <img src="https://img.youtube.com/vi/vd3IlOjSUGQ/maxresdefault.jpg" width="170">
+  </a><br>
+  <b>ハルカ - YOASOBI</b>
+</div>
+<br>
+
+> ---
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@purrsenninvfy?name=purrsenninvfy&theme=booru-yuyuyui&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    </p>
+    <p align="center">visitors count.ᐟ</p>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/purrsenninvfy/purrsenninvfy/main/assets/kyubey.gif" height="40" />
+<br><br><br>
+
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
+</div>
